@@ -1,0 +1,35 @@
+<body>
+  <header>
+    <h1>Ankita Gita Shastri</h1>
+    <p>HR Manager | Team Builder | People First</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m an HR professional passionate about building teams and growing people...</p>
+  </section>
+
+  <section id="experience">
+    <h2>Experience & Skills</h2>
+    <ul>
+      <li>Strategic Hiring and Team Building</li>
+      <li>HR Policies & Compliance</li>
+      <li>Onboarding & Employee Engagement</li>
+    </ul>
+  </section>
+
+  <section id="philosophy">
+    <h2>My HR Philosophy</h2>
+    <p>I believe great managers build great teams by hiring people they know, from their own market...</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>📧 hrankitagita@gmail.com</p>
+    <p><a href="https://linkedin.com/in/ankita-gita-shastri" target="_blank">LinkedIn</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Ankita Gita Shastri</p>
+  </footer>
+</body>
